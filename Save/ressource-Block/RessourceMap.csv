@@ -1,0 +1,51 @@
+TrueOrFalse,Nom,Intro,Quête, QueFaire,Nombre
+T,Forêt interdite,Une Légende fantastique,Vous avez entendu parlé de la légende de l’Arbre monde,Trouver l'arbre monde,1
+F,Cité des ombres,Une cité plongée dans l'obscurité,Un vielle homme vous à parler d’une cité enfoui dans la montagne,Trouver le passage secret,6
+F,Montagne des dragons,Une montagne où des dragons ancestraux errent,La nouvelle ère de l’enfant de dragon est proche,Trouver l'œuf de dragon,8
+F,Rivière des esprits,Une rivière hantée par des esprits tourmentés,Les pêcheurs vous ont expliqué que des esprit les poussent dans l’eau,Trouver le chaman des esprits,5
+F,Mont des sables,Une montagne de sable en constante mutation,Un voyageur vous a parlé d'une ancienne relique au sommet,Atteindre le sommet et trouver la relique,5
+F,Canyon des murmures,Un canyon où le vent chuchote des secrets anciens,Des murmures vous guident vers une entrée secrète,Découvrir le passage caché,7
+F,Île des illusions,Une île énigmatique entourée de brumes magiques,Des légendes racontent la présence d'une source de sagesse,Trouver la source de sagesse,6
+F,Désert des échos,Un désert où les échos peuvent révéler des vérités cachées,Traverser le désert afin d’entendre les douces voix,Écouter les échos pour trouver la vérité enfouie,3
+F,Plateau des aigles,Un plateau élevé habité par des aigles majestueux,Un vieil ermite parle d'un nid d'aigles légendaire,Localiser le nid et récupérer une plume rare,8
+F,Grotte des cristaux,Une grotte scintillante remplie de cristaux étincelants,Les mineurs parlent d'un cristal rare aux propriétés magiques,Trouver le cristal magique,9
+F,Vallée des enchantements,Une vallée enchantée où des créatures magiques prospèrent,Un mystérieux artefact est censé être caché dans la vallée,Découvrir l'emplacement de l'artefact,7
+F,Labyrinthe des énigmes,Un labyrinthe rempli d'énigmes et de pièges complexes,Des inscriptions anciennes suggèrent une sortie secrète,Résoudre les énigmes et trouver la sortie,10
+F,Plage des coquillages,Une plage paisible couverte de coquillages brillants,Les pêcheurs parlent d'une perle rare au fond de l'océan,Plonger et récupérer la perle,5
+F,Marais des souvenirs,Un marais où des souvenirs perdus hantent l'air,Un esprit errant demande de retrouver ses souvenirs,Aider l'esprit à récupérer ses souvenirs,6
+F,Colline des étoiles,Une colline d'où on peut voir les étoiles les plus éclatantes,Un astronome parle d'une constellation rare à observer,Identifier et nommer la constellation rare,7
+F,Jardin des illusions,Un jardin magique où les fleurs changent de couleur,Une fleur rare est censée posséder des propriétés curatives,Trouver la fleur rare et récolter ses pétales,4
+F,Récif des songes,Un récif sous-marin où les rêves prennent vie,Des légendes parlent d'un coquillage enchanté,Trouver le coquillage enchanté,9
+F,Puits des souhaits,Un puits mystique où les souhaits peuvent se réaliser,Des rumeurs disent qu'une pièce unique repose au fond du puits,Lancer une pièce dans le puits et voir ce qui se passe,6
+F,Champ des éclats,Un champ couvert d'éclats de cristal scintillants,Des marchands parlent d'un éclat rare aux propriétés magiques,Trouver l'éclat magique,8
+F,Passage des étoiles filantes,Un passage où des étoiles filantes traversent le ciel,Des croyances disent qu'un vœu peut être exaucé ici,Faire un vœu sous une étoile filante,7
+F,Gorge des murmures,Une gorge où le murmure du vent crée une mélodie apaisante,Les locaux parlent d'un instrument magique caché,Trouver l'instrument magique,5
+F,Arène des défis,Une arène où les aventuriers se testent mutuellement,Un maître d'arme propose un défi d'habileté,Remporter le défi d'habileté,6
+F,Source de la jeunesse,Une source d'eau aux pouvoirs régénérants,Une légende parle d'une fleur rajeunissante près de la source,Trouver la fleur rajeunissante,10
+F,Palais des éclats,Un palais éblouissant fait d'éclats de cristal,Les rumeurs parlent d'une danse mystique qui révèle des secrets,Participer à la danse mystique et découvrir les secrets,9
+F,Terre des rêves perdus,Un territoire mystérieux où les illusions deviennent réalité,Une vieille carte vous guide vers un endroit énigmatique,Découvrir le secret caché,4
+F,Forêt interdite,Une Légende fantastique,Vous avez entendu parlé de la légende de l’Arbre monde,Trouver l'arbre monde,1
+F,Cité des ombres,Une cité plongée dans l'obscurité,Un vielle homme vous à parler d’une cité enfoui dans la montagne,Trouver le passage secret,6
+F,Montagne des dragons,Une montagne où des dragons ancestraux errent,La nouvelle ère de l’enfant de dragon est proche,Trouver l'œuf de dragon,8
+F,Rivière des esprits,Une rivière hantée par des esprits tourmentés,Les pêcheurs vous ont expliqué que des esprit les poussent dans l’eau,Trouver le chaman des esprits,5
+F,Mont des sables,Une montagne de sable en constante mutation,Un voyageur vous a parlé d'une ancienne relique au sommet,Atteindre le sommet et trouver la relique,5
+F,Canyon des murmures,Un canyon où le vent chuchote des secrets anciens,Des murmures vous guident vers une entrée secrète,Découvrir le passage caché,7
+F,Île des illusions,Une île énigmatique entourée de brumes magiques,Des légendes racontent la présence d'une source de sagesse,Trouver la source de sagesse,6
+F,Désert des échos,Un désert où les échos peuvent révéler des vérités cachées,Traverser le désert afin d’entendre les douces voix,Écouter les échos pour trouver la vérité enfouie,3
+F,Plateau des aigles,Un plateau élevé habité par des aigles majestueux,Un vieil ermite parle d'un nid d'aigles légendaire,Localiser le nid et récupérer une plume rare,8
+F,Grotte des cristaux,Une grotte scintillante remplie de cristaux étincelants,Les mineurs parlent d'un cristal rare aux propriétés magiques,Trouver le cristal magique,9
+F,Vallée des enchantements,Une vallée enchantée où des créatures magiques prospèrent,Un mystérieux artefact est censé être caché dans la vallée,Découvrir l'emplacement de l'artefact,7
+F,Labyrinthe des énigmes,Un labyrinthe rempli d'énigmes et de pièges complexes,Des inscriptions anciennes suggèrent une sortie secrète,Résoudre les énigmes et trouver la sortie,10
+F,Plage des coquillages,Une plage paisible couverte de coquillages brillants,Les pêcheurs parlent d'une perle rare au fond de l'océan,Plonger et récupérer la perle,5
+F,Marais des souvenirs,Un marais où des souvenirs perdus hantent l'air,Un esprit errant demande de retrouver ses souvenirs,Aider l'esprit à récupérer ses souvenirs,6
+F,Colline des étoiles,Une colline d'où on peut voir les étoiles les plus éclatantes,Un astronome parle d'une constellation rare à observer,Identifier et nommer la constellation rare,7
+F,Jardin des illusions,Un jardin magique où les fleurs changent de couleur,Une fleur rare est censée posséder des propriétés curatives,Trouver la fleur rare et récolter ses pétales,4
+F,Récif des songes,Un récif sous-marin où les rêves prennent vie,Des légendes parlent d'un coquillage enchanté,Trouver le coquillage enchanté,9
+F,Puits des souhaits,Un puits mystique où les souhaits peuvent se réaliser,Des rumeurs disent qu'une pièce unique repose au fond du puits,Lancer une pièce dans le puits et voir ce qui se passe,6
+F,Champ des éclats,Un champ couvert d'éclats de cristal scintillants,Des marchands parlent d'un éclat rare aux propriétés magiques,Trouver l'éclat magique,8
+F,Passage des étoiles filantes,Un passage où des étoiles filantes traversent le ciel,Des croyances disent qu'un vœu peut être exaucé ici,Faire un vœu sous une étoile filante,7
+F,Gorge des murmures,Une gorge où le murmure du vent crée une mélodie apaisante,Les locaux parlent d'un instrument magique caché,Trouver l'instrument magique,5
+F,Arène des défis,Une arène où les aventuriers se testent mutuellement,Un maître d'arme propose un défi d'habileté,Remporter le défi d'habileté,6
+F,Source de la jeunesse,Une source d'eau aux pouvoirs régénérants,Une légende parle d'une fleur rajeunissante près de la source,Trouver la fleur rajeunissante,10
+F,Palais des éclats,Un palais éblouissant fait d'éclats de cristal,Les rumeurs parlent d'une danse mystique qui révèle des secrets,Participer à la danse mystique et découvrir les secrets,9
+F,Terre des rêves perdus,Un territoire mystérieux où les illusions deviennent réalité,Une vieille carte vous guide vers un endroit énigmatique,Découvrir le secret caché,4
